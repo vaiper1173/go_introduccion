@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ncostamagna/go_introduction_course/exercise/section2/exercise1/matrix"
+	"github.com/vaiper1173/go_introduccion/exercise/section2/exercise1/matrix"
 )
 
 /*

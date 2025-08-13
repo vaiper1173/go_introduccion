@@ -1,6 +1,6 @@
 package main
 
-import "github.com/ncostamagna/go_introduction_course/exercise/section2/exercise2/commerce"
+import "github.com/vaiper1173/go_introduccion/exercise/section2/exercise2/commerce"
 
 /*
 Un ecommerce llamado Roquetete necesita implementar una funcionalidad para administrar sus productos.

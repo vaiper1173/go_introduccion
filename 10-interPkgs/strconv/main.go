@@ -14,12 +14,12 @@ func main() {
 	fmt.Println(s)
 	s = strconv.FormatFloat(3.1415, 'E', -1, 64)
 	fmt.Println(s)
-	s = strconv.FormatInt(-42, 10)
+	s = strconv.FormatInt(-42, 16)
 	fmt.Println(s)
-	s = strconv.FormatUint(42, 10)
+	s = strconv.FormatUint(42, 16)
 	fmt.Println(s)
 
-	b, err := strconv.ParseBool("sarasa")
+	b, err := strconv.ParseBool("true")
 	fmt.Println(b, err)
 
 	f, err := strconv.ParseFloat("3.1415", 64)

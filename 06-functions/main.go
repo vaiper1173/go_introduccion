@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/ncostamagna/go_introduction_course/06-functions/function"
+	"github.com/vaiper1173/go_introduccion/06-functions/function"
 )
 
 func main() {

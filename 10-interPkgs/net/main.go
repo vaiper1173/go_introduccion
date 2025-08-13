@@ -58,6 +58,7 @@ func main() {
 	fmt.Println("LastName: ", user.LastName)
 
 	fmt.Println()
+	fmt.Println("Creating user...")
 	u, err := CreateUser("nahuel", "engineer")
 	if err != nil {
 		log.Fatal(err)
