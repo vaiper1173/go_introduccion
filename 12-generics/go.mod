@@ -1,5 +1,7 @@
 module github.com/ncostamagna/go_introduction_course/12-generics
 
-go 1.19
+go 1.24.0
 
-require golang.org/x/exp v0.0.0-20220827204233-334a2380cb91 // indirect
+toolchain go1.24.6
+
+require golang.org/x/exp v0.0.0-20250813145105-42675adae3e6

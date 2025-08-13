@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/vaiper1173/matrix/lineal"
-	"github.com/vaiper1173/matrix/matrix"
+	"github.com/ncostamagna/matrix/lineal" //bajar a github para que funcione
+	"github.com/ncostamagna/matrix/matrix" //bajar a github para que funcione
 )
 
 func main() {

@@ -24,7 +24,7 @@ func main() {
 	fmt.Println(err)
 	fmt.Println(myEnv)
 
-	if err := godotenv.Load(); err != nil {
+	if err := godotenv.Overload(); err != nil {
 		fmt.Println(err)
 	}
 
